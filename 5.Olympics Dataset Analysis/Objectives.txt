@@ -1,0 +1,8 @@
+1. Distribution of Medals by Gender
+2. Country of Medals-->i)sort by count of Medal
+		           ii) conditional formatting
+3. Distribution of Medals among Top 10 Players
+4. Distribution of Medals by Sports (top 20)
+5. Distribution of Medals by Season and Country 
+6. Count of Medals by Age
+7. Count of Name by Year and Gender.

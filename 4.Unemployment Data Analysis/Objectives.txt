@@ -1,0 +1,9 @@
+1. Total People Unemployed by Age & Gender
+2. Total Unemployed by year and Gender
+3. Unemployed by gender
+4. Total Unemployed by Age
+Cards:
+		i) Most Unemployed Gender
+		ii) Min Unemployed in Year
+		iii) Max Unemployed in Year
+		iv) Most Unemployed by range of age
